@@ -1,0 +1,7 @@
+C:\dev\az204\labs\042_Web Apps\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.exe
+C:\dev\az204\labs\042_Web Apps\sbdemo0604\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\dev\az204\labs\042_Web Apps\sbdemo0604\bin\Debug\net6.0\publish\appsettings.json
+C:\dev\az204\labs\042_Web Apps\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.dll
+C:\dev\az204\labs\042_Web Apps\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.deps.json
+C:\dev\az204\labs\042_Web Apps\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.runtimeconfig.json
+C:\dev\az204\labs\042_Web Apps\sbdemo0604\bin\Debug\net6.0\publish\sbdemo0604.pdb
